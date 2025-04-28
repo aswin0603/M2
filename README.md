@@ -246,7 +246,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/35c65bf4-b2e6-410d-a327-0440e7587dd9)
+
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
